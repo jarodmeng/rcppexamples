@@ -1,0 +1,12 @@
+Package: rcppexception
+Title: Test out Rcpp exceptions
+Version: 0.0.0.9000
+Authors@R: person("Jarod", "Meng", email = "genrong.meng@gmail.com", role = c("aut", "cre"))
+Description: Test out Rcpp exceptions.
+Depends: R (>= 3.5.0)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+LinkingTo: Rcpp
+Imports: Rcpp
+RoxygenNote: 6.0.1
